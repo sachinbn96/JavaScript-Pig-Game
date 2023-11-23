@@ -1,0 +1,16 @@
+data
+{
+    "has_error": False,
+    "data": [
+        ("Block Advisors", 1592943, 1858514346),
+        ("Consumer Tax", 24183335, 10264248538),
+        ("Expat", 99677, 26692211),
+        ("Financial", 630282, 292082216),
+        ("ITC", 0, 0),
+        ("Initiatives", 0, 0),
+    ],
+    "columns": ["CREATIVE_BUSINESS_LINE", "CLICKS_VALUE", "IMPRESSIONS_VALUE"],
+}
+
+
+no data
